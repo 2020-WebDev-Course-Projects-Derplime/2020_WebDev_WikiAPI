@@ -1,4 +1,4 @@
-# 2020_WebDev_Build-Your-Own-RESTful-API
+# 2020_WebDev_WikiAPI
 Build-Your-Own-RESTful-API project for 2020 Web Development course
 
 How to make it work:
